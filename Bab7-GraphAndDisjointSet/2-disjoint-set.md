@@ -55,9 +55,7 @@ void merge(std::string A, std::string B) {
     // Dalam contoh kasus pertemanan, jika grup Deni-Edo bergabung dengan grup Andi-Budi-Caca,
     // maka kedua perwakilan kelompok digabungkan.
     // Misalnya, awalnya Deni dan Edo diwakili oleh Deni dan Andi diwakili oleh dirinya sendiri.
-    // Setelah penggabungan, kedua kelompok Deni-Edo dan Andi-Budi-Caca akan diwak
-
-ili oleh Andi.
+    // Setelah penggabungan, kedua kelompok Deni-Edo dan Andi-Budi-Caca akan diwakili oleh Andi.
     // Dengan demikian, Deni (diwakili oleh Andi) berada dalam kelompok yang sama dengan Budi (juga diwakili oleh Andi).
 }
 
