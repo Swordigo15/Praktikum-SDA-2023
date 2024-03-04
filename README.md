@@ -4,9 +4,8 @@
 <h3 align ="center">  >> <a align = "center" href = "https://github.com/Alfurqon02/Praktikum-SDA-2023/blob/main/DaftarMateri.md"> <span align="center">Lihat Materi</span></a> << </h3>
 <h2> Tim Asisten Dosen: </h2>
 
-- Alfiki Diastama Afan Firdaus (M0521009) - Informatika 21 [Kelas A]
-- Mohammad Al Furqon (M0521044) - Informatika 21 [Kelas B]
-- Tulus Toto Raharjo (M0521078) - Informatika 21 [Kelas C]
+- Muhammad Annys (L0122102) - Informatika 22 [Kelas D]
+- Mohammad Syafiq Ibrahim (L01221) - Informatika 22 [Kelas D]
 
 <h2> Overview </h2>
 <p> Struktur data dan algoritma adalah dua konsep dasar dalam ilmu pemrograman yang penting dalam menulis sebuah program yang efisien dan efektif. </p>
