@@ -4,10 +4,6 @@
 <h3 align ="center">  >> <a align = "center" href = "https://github.com/Swordigo15/Praktikum-SDA-2024/blob/main/DaftarMateri.md"> <span align="center">Lihat Materi</span></a> << </h3>
 <h2> Tim Asisten Dosen: </h2>
 
-- Muhammad Annys (IF 2022) [Github](https://github.com/Swordigo15)
-
-- Muhammad Syafiq Ibrahim (IF 2022) [Github](https://github.com/SyafiqMSI)
-
 <h2> Overview </h2>
 <p> Struktur data dan algoritma adalah dua konsep dasar dalam ilmu pemrograman yang penting dalam menulis sebuah program yang efisien dan efektif. </p>
 
